@@ -1,0 +1,22 @@
+section{
+  display: flex;
+  align-items: center;
+  width: 500px;
+  height: 600px;
+  background:url(https://image.ibb.co/fCAd2R/background.png);
+  background-size: cover;
+  justify-content: center;
+}
+
+body{
+   display:flex;
+   height:90vh;
+   align-items: center;
+   justify-content: center;
+   background-color: skyblue;
+   overflow: hidden;
+}
+
+#bird{
+  width:10%;
+}
