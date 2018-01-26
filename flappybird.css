@@ -6,6 +6,7 @@ section{
   background:url(https://image.ibb.co/fCAd2R/background.png);
   background-size: cover;
   justify-content: center;
+  overflow: hidden;
 }
 
 body{
